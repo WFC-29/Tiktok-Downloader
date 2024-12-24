@@ -1,4 +1,4 @@
-# Tiktok-Downloader
+# Tiktok-Downloader-By CYBER WFC29 
 pkg update && pkg upgrade
 pkg install bash
 pkg install python
